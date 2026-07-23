@@ -5,11 +5,11 @@ import { motion } from "framer-motion";
 const team = [
   {
     initials: "SH",
-    name: "Satish Hande",
+    name: "Shreya",
     role: "Chief Executive Officer",
     quote:
       "Technology should never feel complicated. My job is to make sure every product we ship quietly disappears into someone's day and just makes it easier.",
-    bio: "Satish leads Dhruvexa's vision and growth, translating ambitious ideas into products people actually want to use. With a sharp eye for what businesses need and what markets are missing, he's focused on building an ecosystem that scales without losing sight of the people it serves. He believes the best technology is invisible — it simplifies lives, empowers businesses, and leaves room for the next generation of innovators to build on top of it.",
+    bio: "Shreya leads Dhruvexa's vision and growth, translating ambitious ideas into products people actually want to use. With a sharp eye for what businesses need and what markets are missing, she is focused on building an ecosystem that scales without losing sight of the people it serves. She believes the best technology is invisible — it simplifies lives, empowers businesses, and leaves room for the next generation of innovators to build on top of it.",
   },
   {
     initials: "ST",
